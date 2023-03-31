@@ -1,4 +1,4 @@
-# Project Name
+# Albumify
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -16,6 +16,7 @@ A brief description of the project.
 Clone the repository
 
 git clone https://github.com/yourusername/spotify-albumify.git
+
 Install dependencies
 
 cd spotify-albumify
@@ -30,6 +31,7 @@ FRONTEND_URI=http://localhost:3000
 ## Usage
 
 Start the server
+
 npm start
 Navigate to http://localhost:8888 in your web browser
 Click the "Log in with Spotify" button and log in to your Spotify account
